@@ -83,7 +83,6 @@ li {
 }
 
 .nav-link {
-  color: (var(--primary-color));
   font-weight: 600;
 }
 
@@ -279,6 +278,28 @@ footer a:hover {
 }
 
 @media (max-width: 768px) {
+  h1 {
+    font-size: 36px;
+    text-align: center;
+  }
+
+  h2,
+  h3 {
+    font-size: 24px;
+  }
+
+  p {
+    font-size: 18px;
+  }
+
+  .whatsapp-btn-container {
+    padding: 0px;
+  }
+
+  footer {
+    text-align: center;
+  }
+
   footer h6 {
     padding-top: 10px;
   }
