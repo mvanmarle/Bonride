@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc rel="canonical" >http://www.bonridescooters/index.html</loc>
+    <loc>http://www.bonridescooters/index.html</loc>
     <lastmod>2022-08-17</lastmod>
     </url>
     <url>
-    <loc rel="canonical" >http://www.bonridescooters/index.php</loc>
+    <loc>http://www.bonridescooters/index.php</loc>
     <lastmod>2022-08-17</lastmod>
     </url>
     <url>
-    <loc rel="canonical" >http://www.main--bonridescooters.netlify.app</loc>
+    <loc>http://www.main--bonridescooters.netlify.app</loc>
     <lastmod>2022-08-17</lastmod>
     </url>
 </urlset>
