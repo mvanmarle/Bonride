@@ -255,13 +255,14 @@ h3 {
 
 .blogpost a {
   text-decoration: none;
-  color: var(--primary-color);
+  color: var(--dark-color);
   transition: all 200ms ease-in-out;
+  font-weight: 600;
 }
 
 .blogpost a:hover {
   color: var(--dark-color);
-  font-weight: bold;
+  font-weight: 900;
   text-decoration: none;
 }
 
